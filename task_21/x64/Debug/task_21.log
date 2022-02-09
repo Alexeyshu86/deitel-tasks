@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Projects\deitel_N3\task_21\main.c(20,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Projects\deitel_N3\task_21\main.c(28,2): warning C4098: main: функция типа "void", возвращающая значение
+  task_21.vcxproj -> E:\Projects\deitel_N3\x64\Debug\task_21.exe
