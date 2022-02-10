@@ -17,7 +17,7 @@ void main()
 			salary = hours * rate;
 
 		if (hours > 40)
-			salary = 40 * rate + (/*(float)*/(hours - 40)) * rate * 1.5;
+			salary = 40 * rate + (hours - 40) * rate * 1.5;
 
 		printf("Salary is $%.2f\n", salary);
 
