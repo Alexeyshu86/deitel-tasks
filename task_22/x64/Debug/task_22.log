@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Projects\deitel_N3\task_22\main.c(20,2): warning C4098: main: функция типа "void", возвращающая значение
+  task_22.vcxproj -> E:\Projects\deitel_N3\x64\Debug\task_22.exe
