@@ -2,19 +2,7 @@
 
 int main()
 {
-	int y = 7, x = 5;
 
-	if (y == 8)
-	{
-		if (x == 5)
-			printf("@@@@@\n");
-	}
-	else
-	{
-		printf("#####\n");
-		printf("$$$$$\n");
-		printf("&&&&&\n");
-	}
 
 	return 0;
 }
