@@ -2,21 +2,19 @@
 
 int main()
 {
-	int row = 10;
-	int column;
+	int y = 7, x = 5;
 
-	while (row >= 1)
+	if (y == 8)
 	{
-		column = 1;
-		while (column <= 10)
-		{
-			printf("%s", row % 2 ? "<" : ">");
-			column++;
-		}
-		row--;
-		printf("\n");
+		if (x == 5)
+			printf("@@@@@\n");
+	}
+	else
+	{
+		printf("#####\n");
+		printf("$$$$$\n");
+		printf("&&&&&\n");
 	}
 
-//comment 1
 	return 0;
 }
