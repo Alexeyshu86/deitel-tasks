@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Projects\deitel_N3\task_42\main.c(7,13): warning C4305: =: усечение из "double" в "float"
+  task_42.vcxproj -> E:\Projects\deitel_N3\x64\Debug\task_42.exe
