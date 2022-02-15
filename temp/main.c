@@ -2,13 +2,9 @@
 
 int main()
 {
-	int a = 1;
-	while (1)
-	{
-		if (a % 2 == 0)
-			printf("%d ", a);
-		a++;
-	}
+	int x = 2, y = 4;
+
+	printf("%d", ++x + y);
 
 
 	return 0;
